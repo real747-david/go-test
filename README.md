@@ -7,7 +7,7 @@ WIN7+Administrator@win7 MINGW64 /c/project/src/go_dev/leapyear
 
 $ go build leapyear.go
 
-run and test.
+Run and test.
 
 WIN7+Administrator@win7 MINGW64 /c/project/src/go_dev/leapyear
 
